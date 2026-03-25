@@ -45,3 +45,9 @@ footer{
     background-color: #8E0000;
     color: #FFFFFF;
 }
+/* Agregar al final de styles.css */
+section:hover {
+ border-left-color: #C62828;
+ background-color: #FFEBEE;
+ transition: background-color 0.3s ease;
+}
